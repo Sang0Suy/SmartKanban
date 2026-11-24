@@ -1,0 +1,23 @@
+  bin/
+  obj/
+  .vs/
+  node_modules/
+  dist/
+  .env
+  appsettings.Development.json
+  *.docx
+  ~$*# .NET
+bin/
+obj/
+.vs/
+appsettings.Development.json
+
+# React
+node_modules/
+dist/
+build/
+.env
+dev-dist/
+node2/
+*.docx
+~$*
